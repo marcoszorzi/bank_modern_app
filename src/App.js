@@ -36,6 +36,6 @@ export default App
 
 
 /**
- * Video stopped at 8:12:00
+ * Video stopped at 8:24:20
  * https://www.youtube.com/watch?v=F627pKNUCVQ&t=499s
  */
